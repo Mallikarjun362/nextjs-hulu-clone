@@ -31,19 +31,19 @@ export default {
     },
     fetchSciFi : {
         title : 'Sci Fi',
-        url : '/discover/movie?api_key=${API_KEY}&with_genres=878',
+        url : `/discover/movie?api_key=${API_KEY}&with_genres=878`,
     },
     fetchWestern : {
         title : 'Western',
-        url : '/discover/movie?api_key=${API_KEY}&with_genres=37',
+        url : `/discover/movie?api_key=${API_KEY}&with_genres=37`,
     },
     fetchAnimation: {
         title : 'Animation',
-        url : '/discover/movie?api_key=${API_KEY}&with_genres=16',
+        url : `/discover/movie?api_key=${API_KEY}&with_genres=16`,
     },
     fetchTV: {
         title : '',
-        url : '/discover/movie?api_key=${API_KEY}&with_genres=10770',
+        url : `/discover/movie?api_key=${API_KEY}&with_genres=10770`,
     },
 };
 
