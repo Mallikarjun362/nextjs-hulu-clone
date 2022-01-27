@@ -58,6 +58,8 @@ export default {
     &include_video=false
     &page=1
     &with_watch_monetization_types=flatrate
+    
+API_KEY = 'f81980ff410e46f422d64ddf3a56dddd'
 
     https://api.themoviedb.org/3/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg
 */

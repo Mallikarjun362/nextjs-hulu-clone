@@ -12,7 +12,7 @@ function Header() {
       <HeaderItem title='SEARCH' Icon={SearchIcon}/>
       <HeaderItem title='USER' Icon={UserIcon}/>
     </div>
-      <Image src='https://suplari.com/wp-content/uploads/2019/09/hulu-logo-white.png'  width={800*scaledown} height={510*scaledown}/>
+      <Image src='https://suplari.com/wp-content/uploads/2019/09/hulu-logo-white.png' alt="hulu logo" width={800*scaledown} height={510*scaledown}/>
   </header>);
 }
 
